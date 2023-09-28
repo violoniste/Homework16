@@ -9,3 +9,5 @@ public class CalculatorApplication {
 		SpringApplication.run(CalculatorApplication.class, args);
 	}
 }
+
+// Забыл init сразу сделать
